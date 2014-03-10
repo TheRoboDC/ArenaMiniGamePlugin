@@ -1,0 +1,17 @@
+main: io.github.TheRoboDC.ArenaPVP
+name: ArenaMiniGamePlugin
+version: 1.0
+description: PvP MiniGame Plugin.
+commands:
+    join:
+        description: joins arena
+        usage: /<command> [id]
+    create:
+        description: creates arena
+        usage: /<command>
+    remove:
+        description: removes arena
+        usage: /<command> [id]
+    leave:
+        description: leaves arena
+        usage: /<command>
